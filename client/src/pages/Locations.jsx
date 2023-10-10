@@ -13,6 +13,7 @@ const Locations = () => {
             try {
                 const locationsData = await LocationsAPI.getAllLocations()
                 setLocations(locationsData)
+                //console.log(locations)
 
                 setVenueNames({venue1: locationsData[0].name, venue2: locationsData[1].name, venue3: locationsData[2].name, venue4: locationsData[3].name})
                 setListeners()
