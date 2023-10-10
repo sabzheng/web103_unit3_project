@@ -35,6 +35,9 @@ Here's a walkthrough of implemented required features:
 
 <img src='web103 hw3.gif' title='Video Walkthrough' width='500' alt='Video Walkthrough' />
 
+<img src='events sql.png' title='Event SQL' width='500' alt='Screenshoot' />
+
+<img src='location sql.png' title='Location SQL' width='500' alt='Screenshoot' />
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with freeConvert
 
