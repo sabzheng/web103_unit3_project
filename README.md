@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='web103 hw3.gif' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
+<img src='web103 hw3.gif' title='Video Walkthrough' width='500' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with freeConvert
