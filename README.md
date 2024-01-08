@@ -1,4 +1,4 @@
-# WEB103 Project 3 - *UNITGRID PLAZA*
+# WEB103 Project: UNITGRID PLAZA
 
 Submitted by: **SABRINA ZHENG**
 
