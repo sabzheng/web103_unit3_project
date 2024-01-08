@@ -20,15 +20,6 @@ The following **required** functionality is completed:
 - [x] **Clicking on a Location shows a list of all items from the Events table that corresponds to that Location**
 - [x] **Each Location detail page should have its own unique URL**
 
-The following **optional** features are implemented:
-
-- [ ] An additional page shows all possible `Events` that the user can sort and filter by `Location`
-- [ ] `Events` display a countdown showing the time remaining before that event and appears with different formatting when the event has passed
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you added to improve the site's functionality!
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
@@ -38,20 +29,8 @@ Here's a walkthrough of implemented required features:
 <img src='events sql.png' title='Event SQL' width='500' alt='Screenshoot' />
 
 <img src='location sql.png' title='Location SQL' width='500' alt='Screenshoot' />
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with freeConvert
 
 ## Notes
 
 Describe any challenges encountered while building the app or any additional context you'd like to add.
-- UseEffect and await promise functions
-
-## License
-
-Copyright [2023] [Sabrina Zheng]
-
-Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
-
-> http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+- The combination of useEffect and asynchronous operations with await promises may initially present challenges, but any potential issues are resolved through a meticulous review process and thorough debugging screening.
